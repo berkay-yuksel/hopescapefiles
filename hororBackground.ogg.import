@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hororBackground.ogg-fd39448e3f50c929d51780eec1ee0f88.oggstr"
+
+[deps]
+
+source_file="res://hororBackground.ogg"
+dest_files=[ "res://.import/hororBackground.ogg-fd39448e3f50c929d51780eec1ee0f88.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
